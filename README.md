@@ -1,5 +1,5 @@
-# demo1
+# c/c++ projects
 
 first github report
 <br>
-auther: pratik pote
+auther: pratik pote.
